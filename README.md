@@ -47,6 +47,6 @@ Planned enhancements to extend BookNest into a more robust platform:
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-Katragadda Naga Kavya
+Maddula Siddhartha
 Final year student | Full Stack Developer
-https://github.com/Nagakavya21
+https://github.com/Siddhartha120904
